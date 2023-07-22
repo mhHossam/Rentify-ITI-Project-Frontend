@@ -1,0 +1,51 @@
+.xx {
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffff 100%);
+}
+.position{
+  background-color: rgba(245, 245, 245, 0.923);
+  display: block;
+  margin: auto;
+  
+
+}
+.xxx {
+  background: rgba(250, 249, 249, 0.3);
+  border-top-right-radius: 100%;
+  border-bottom-right-radius: 100%;
+}
+
+
+
+.xxx2 {
+  background: rgba(250, 249, 249, 0.3);
+  border-top-left-radius: 100%;
+  border-bottom-left-radius: 100%;
+}
+
+.card {
+  border-radius: 30px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: none;
+  width: 35vh;
+  margin: 7px;
+}
+
+.carousel-item {
+
+  cursor: pointer;
+}
+
+.carousel-item img {
+  border-radius: 10px;
+  height: 35vh;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.21);
+  transition: 0.25s linear;
+}
+
+.carousel-item:hover img {
+  transform: translatey(-1%);
+}
+
+
+
